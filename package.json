@@ -1,0 +1,16 @@
+{
+  "name": "init-node-typescript",
+  "version": "1.0.0",
+  "description": "Initialize a Node.js project with TypeScript",
+  "bin": {
+    "init-node-typescript": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
